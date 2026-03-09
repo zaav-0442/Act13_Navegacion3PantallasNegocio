@@ -2,8 +2,13 @@
 
 A new Flutter project.
 
-<img width="1236" height="643" alt="image" src="https://github.com/user-attachments/assets/82dd012d-de27-4b4f-bc55-856e606b5514" />
-<img width="1235" height="645" alt="image" src="https://github.com/user-attachments/assets/e115b71e-3c14-4c83-9f15-a1f8079b0425" />
+<img width="977" height="559" alt="image" src="https://github.com/user-attachments/assets/82fc2037-a0e6-4974-b3e8-9ce732c69249" />
+<img width="974" height="486" alt="image" src="https://github.com/user-attachments/assets/f5b7d8ee-52ec-447f-89eb-6327fe6ef450" />
+<img width="1235" height="640" alt="image" src="https://github.com/user-attachments/assets/cec52529-39f9-4a13-a746-22ef35dd394f" />
+
+<img width="225" height="474" alt="image" src="https://github.com/user-attachments/assets/0437edfa-fcab-4d38-b4dc-7825d7afc041" />
+<img width="227" height="472" alt="image" src="https://github.com/user-attachments/assets/f8c6d41b-c5f7-4245-ac4d-f157431953df" />
+<img width="222" height="473" alt="image" src="https://github.com/user-attachments/assets/94402fb7-6eb7-41ad-9720-37cae3d93db7" />
 
 ## Getting Started
 
